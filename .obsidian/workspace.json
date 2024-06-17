@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java Core/Throwable.md",
+                "file": "Java/Java Core/New in Java/New in Java 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Core/Throwable.md",
+                "file": "Java/Java Core/New in Java/New in Java 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Core/Throwable.md",
+                "file": "Java/Java Core/New in Java/New in Java 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Core/Throwable.md"
+                "file": "Java/Java Core/New in Java/New in Java 7.md"
               }
             }
           }
@@ -143,9 +143,12 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49929f61ce44256e",
-  "lastOpenFiles": []
+  "active": "7393aa503fedac02",
+  "lastOpenFiles": [
+    "Java/Java Core/Throwable.md"
+  ]
 }
