@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java Core/New in Java/New in Java 7.md",
+                "file": "WoW/WoW ToDo list.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Core/New in Java/New in Java 7.md",
+                "file": "WoW/WoW ToDo list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Core/New in Java/New in Java 7.md",
+                "file": "WoW/WoW ToDo list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Core/New in Java/New in Java 7.md"
+                "file": "WoW/WoW ToDo list.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "7393aa503fedac02",
   "lastOpenFiles": [
+    "Java/Java Core/New in Java/New in Java 7.md",
+    "WoW/WoW ToDo list.md",
+    "WoW",
     "Java/Java Core/Throwable.md"
   ]
 }
