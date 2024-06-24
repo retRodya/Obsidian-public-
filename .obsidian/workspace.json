@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7393aa503fedac02",
+            "id": "d44e9f7220a599a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WoW/WoW ToDo list.md",
+                "file": "Java/Study/Java ToDO list.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WoW/WoW ToDo list.md",
+                "file": "Java/Study/Java ToDO list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WoW/WoW ToDo list.md",
+                "file": "Java/Study/Java ToDO list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WoW/WoW ToDo list.md"
+                "file": "Java/Study/Java ToDO list.md"
               }
             }
           }
@@ -147,11 +147,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7393aa503fedac02",
+  "active": "d44e9f7220a599a3",
   "lastOpenFiles": [
-    "Java/Java Core/New in Java/New in Java 7.md",
     "WoW/WoW ToDo list.md",
-    "WoW",
-    "Java/Java Core/Throwable.md"
+    "Java/Study/Java ToDO list.md",
+    "Java/Java Core/Generics/Type Erasure.md",
+    "Java/Java Core/Generics/Wildcards/Wildcards.md",
+    "Java/Java Core/Generics/Generics.md",
+    "Java/Java Core/Generics/PECS/ProducerExtendsConsumerSuper.md",
+    "Java/Java Core/Generics/PECS/PECS hint.md",
+    "Java/Java Core/Generics/PECS/PECS hint 1.png",
+    "Java/Java Core/New in Java/New in Java 5.md",
+    "Java/Java Core/New in Java/New in Java 7.md",
+    "Java/Java Core/Generics/Wildcards",
+    "PECS hint.png",
+    "Java/Java Core/Generics",
+    "Java/Java Core/Throwable.md",
+    "Java/Java Core/PECS/PECS hint.png",
+    "Java/Java Core/PECS/PECS tip.png.crdownload",
+    "Java/Java Core/Generics/PECS",
+    "Java/Study",
+    "Без названия",
+    "WoW"
   ]
 }

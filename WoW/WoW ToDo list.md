@@ -1,18 +1,31 @@
-- Weekles: 
-- [ ] Raids
-- [ ] Dungens(cap)
-- [ ] Wintergrasp(pvp)
-- [ ] Tol Barad
+-  Weekles: 
+- [ ] Raids = КБ25+ КБ10+ ТКТ25- ТКТ10- СБ10-
+      Dru-
+      Pal+
+- [x] PvE cap = /1600 
+      Dru+
+      Pal+
+- [x] Wintergrasp(pvp) = 4/5
+- [x] Tol Barad (win)
+- [ ] PvP cap 12k/16k
+- [ ] A'lar
+      Dru+
+      Pal-
 
 - Dailies:
 - [ ] Tol Barad
-- [ ] Hellfire Peninsula
-- [ ] Event(Darkmoon Faire and etc.) [get buffs]
+- [x] Hellfire Peninsula
+- [ ] Event
+      quesrts - 
+      achive-
+      dungeon+
 - [ ] Profession
-- [ ] Therazane
 
 - General:
 - [ ] Auction House
+- [ ] Archiology
 - [ ] Reputation
-- [ ] Profession
 - [ ] New character
+
+- Reminders:
+- [ ] Safeforlater
